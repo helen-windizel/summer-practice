@@ -1,0 +1,1087 @@
+.image1 {
+  /* Group 2 */
+  z-index: 1;
+
+  position: absolute;
+  width: 1473.78px;
+  height: 554.2px;
+  left: -17px;
+  top: 127.65px;
+}
+
+.animationtext {
+  /* Кондитерская VENZELBAKERY */
+  z-index: 2;
+
+  position: absolute;
+  width: 395px;
+  height: 116px;
+  left: 77.22px;
+  top: 197.6px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 43.6088px;
+  line-height: 58px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  cursor: pointer;
+  transition: font-size 0.3s ease-in-out;
+}
+.animationtext:hover {
+  /* Кондитерская VENZELBAKERY */
+  font-size: 66px;
+}
+
+.one {
+  /* торты | бенто | моти | чизкейки | капкейки */
+  z-index: 2;
+
+  position: absolute;
+  width: 652px;
+  height: 42px;
+  left: 77.22px;
+  top: 343.87px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+
+  color: #ffffff;
+}
+
+.rectangle2 {
+  /* Rectangle 3 */
+  z-index: 2;
+
+  position: absolute;
+  width: 233.94px;
+  height: 66.32px;
+  left: 84.04px;
+  top: 461.07px;
+
+  background: #ffdcdc;
+  border-radius: 45.4259px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.grow {
+  /* Rectangle 3 */
+
+  position: absolute;
+  width: 280.73px;
+  height: 79.59px;
+  left: 60.64px;
+  top: 454.44px;
+
+  background: #e4b9b9;
+  border-radius: 54.511px;
+  transform: scale (1.1);
+}
+a {
+  /* Сделать заказ */
+  z-index: 2;
+
+  position: absolute;
+  width: 152px;
+  height: 30px;
+  left: 124.92px;
+  top: 478.79px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22.7129px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+.line1 {
+  /* Line 1 */
+  z-index: 2;
+  position: absolute;
+  width: 1440px;
+  height: 0px;
+  left: 0px;
+  top: 124.01px;
+
+  border: 8.63091px solid #4c3a3a;
+}
+.line2 {
+  /* Line 2 */
+  z-index: 2;
+
+  position: absolute;
+  width: 1440.91px;
+  height: 0px;
+  left: -0.45px;
+  top: 677.53px;
+
+  border: 8.63091px solid #4c3a3a;
+}
+.rectangle1 {
+  /* Rectangle 1 */
+
+  position: absolute;
+  width: 1457px;
+  height: 127.65px;
+  left: 0px;
+  top: 0px;
+
+  background: #c18b8b;
+}
+h2 {
+  /* VENZELBAKERY */
+  z-index: 2;
+  position: absolute;
+  width: 330px;
+  height: 58px;
+  left: calc(50% - 330px / 2 + 0.56px);
+  top: 11px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 43.6088px;
+  line-height: 58px;
+
+  color: #ffffff;
+}
+
+h3 {
+  /* Вкусные торты, моти, чизкейки и многое другое */
+  position: absolute;
+  width: 1023px;
+  height: 58px;
+  left: calc(50% - 1023px / 2 + 0px);
+  top: 755.43px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 43.6088px;
+  line-height: 58px;
+
+  color: #4c3a3a;
+}
+.line3 {
+  /* Line 3 */
+  z-index: 2;
+  position: absolute;
+  width: 634.15px;
+  height: 0px;
+  left: calc(50% - 634.15px / 2);
+  top: 900.27px;
+
+  border: 0.454259px solid #000000;
+}
+.two {
+  /* Только натуральные ингредиенты, свежайшие продукты высокого качества */
+
+  position: absolute;
+  width: 779.96px;
+  height: 90px;
+  left: calc(50% - 779.96px / 2 - 0.23px);
+  top: 919.87px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 34.0694px;
+  line-height: 45px;
+  text-align: center;
+
+  color: #000000;
+}
+h4 {
+  /* Вы можете приобрести */
+
+  position: absolute;
+  width: 585px;
+  height: 58px;
+  left: calc(50% - 585px / 2 + 9.5px);
+  top: 1133.83px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 43.6088px;
+  line-height: 58px;
+  text-transform: uppercase;
+
+  color: #8a7676;
+}
+
+/* Desktop - 1 */
+html {
+  position: relative;
+  width: 1440px;
+  height: 8501.91px;
+
+  background: #ffdcdc;
+}
+.image2 {
+  /* IMG_6642 */
+
+  position: absolute;
+  width: 444.26px;
+  height: 541.93px;
+  left: 144.45px;
+  top: 1315.08px;
+
+  background: url(IMG_6642.jpg);
+}
+.image3 {
+  /* IMG_1495 5 */
+
+  position: absolute;
+  width: 444.26px;
+  height: 541.93px;
+  left: 847.65px;
+  top: 1315.08px;
+
+  background: url(IMG_1495 5.jpg);
+}
+.image4 {
+  /* IMG_1202 3 */
+
+  position: absolute;
+  width: 444.26px;
+  height: 541.93px;
+  left: 157.17px;
+  top: 2282.65px;
+
+  background: url(IMG_1202 3.jpg);
+}
+.image5 {
+  /* IMG_1491 */
+
+  position: absolute;
+  width: 444.26px;
+  height: 541.93px;
+  left: 847.65px;
+  top: 2282.65px;
+
+  background: url(IMG_1491.jpg);
+}
+.image6 {
+  /* IMG_1493 4 */
+
+  position: absolute;
+  width: 456.98px;
+  height: 541.93px;
+  left: 150.81px;
+  top: 3250.22px;
+
+  background: url(IMG_1493 4.jpg);
+}
+.image7 {
+  /* IMG_1224 2 */
+
+  position: absolute;
+  width: 444.26px;
+  height: 541.93px;
+  left: 847.65px;
+  top: 3250.22px;
+
+  background: url(IMG_1224 2.jpg);
+}
+.image8 {
+  /* IMG_5794 */
+
+  position: absolute;
+  width: 456.98px;
+  height: 541.93px;
+  left: 150.81px;
+  top: 4217.79px;
+
+  background: url(IMG_5794.png);
+}
+.image9 {
+  /* IMG_1204 3 */
+
+  position: absolute;
+  width: 444.26px;
+  height: 541.93px;
+  left: 847.65px;
+  top: 4217.79px;
+
+  background: url(IMG_1204 3.jpg);
+}
+.image10 {
+  /* IMG_1226 3 */
+
+  position: absolute;
+  width: 456.98px;
+  height: 541.93px;
+  left: 150.81px;
+  top: 5185.36px;
+
+  background: url(IMG_1226 3.jpg);
+}
+.image11 {
+  /* IMG_1205 2 */
+
+  position: absolute;
+  width: 456.98px;
+  height: 541.93px;
+  left: 834.93px;
+  top: 5185.36px;
+
+  background: url(IMG_1205 2.jpg);
+}
+.image12 {
+  /* IMG_1624 2 */
+
+  position: absolute;
+  width: 456.98px;
+  height: 541.93px;
+  left: 150.81px;
+  top: 6152.93px;
+
+  background: url(IMG_1624 2.jpg);
+}
+.image13 {
+  /* IMG_2071 4 */
+
+  position: absolute;
+  width: 458.35px;
+  height: 541.93px;
+  left: 833.56px;
+  top: 6152.93px;
+
+  background: url(IMG_2071 4.jpg);
+}
+.image14 {
+  /* IMG_1212 3 */
+
+  position: absolute;
+  width: 456.98px;
+  height: 541.93px;
+  left: 150.81px;
+  top: 7120.51px;
+
+  background: url(IMG_1212 3.jpg);
+}
+.image15 {
+  /* IMG_1211 3 */
+
+  position: absolute;
+  width: 458.35px;
+  height: 541.93px;
+  left: 833.56px;
+  top: 7120.51px;
+
+  background: url(IMG_1211 3.jpg);
+}
+p2 {
+  /* медовик с малиной/медовик классика */
+
+  position: absolute;
+  width: 420.19px;
+  height: 84px;
+  left: 156.72px;
+  top: 1900.62px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p22 {
+  /* 3800 руб/кг */
+
+  position: absolute;
+  width: 177px;
+  height: 42px;
+  left: 278.46px;
+  top: 1998.28px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p3 {
+  /* ваниль-ягоды */
+
+  position: absolute;
+  width: 507.86px;
+  height: 42px;
+  left: 815.85px;
+  top: 1900.62px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p33 {
+  /* 4100 руб/кг */
+
+  position: absolute;
+  width: 173px;
+  height: 42px;
+  left: 994.83px;
+  top: 1956.04px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p4 {
+  /* тропический */
+
+  position: absolute;
+  width: 204px;
+  height: 42px;
+  left: 277.55px;
+  top: 2868.19px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p44 {
+  /* 4500 руб/кг */
+
+  position: absolute;
+  width: 175px;
+  height: 42px;
+  left: 292.09px;
+  top: 2923.61px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p5 {
+  /* банан - кокос */
+
+  position: absolute;
+  width: 209px;
+  height: 42px;
+  left: 965.75px;
+  top: 2868.19px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p55 {
+  /* 4100 руб/кг */
+
+  position: absolute;
+  width: 173px;
+  height: 42px;
+  left: 994.83px;
+  top: 2915.89px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p6 {
+  /* карамель */
+
+  position: absolute;
+  width: 144px;
+  height: 42px;
+  left: 307.99px;
+  top: 3835.76px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p66 {
+  /* 4200 руб/кг */
+
+  position: absolute;
+  width: 177px;
+  height: 42px;
+  left: 274.83px;
+  top: 3891.18px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p7 {
+  /* нутелла */
+
+  position: absolute;
+  width: 123px;
+  height: 42px;
+  left: 1033.44px;
+  top: 3835.76px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p77 {
+  /* 4500 руб/кг */
+
+  position: absolute;
+  width: 175px;
+  height: 42px;
+  left: 1007.09px;
+  top: 3883.46px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p8 {
+  /* рафаэлло */
+
+  position: absolute;
+  width: 146px;
+  height: 42px;
+  left: 307.99px;
+  top: 4803.33px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p88 {
+  /* 4800 руб/кг */
+
+  position: absolute;
+  width: 178px;
+  height: 42px;
+  left: 290.73px;
+  top: 4858.75px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p9 {
+  /* морковный */
+
+  position: absolute;
+  width: 178px;
+  height: 42px;
+  left: 974.38px;
+  top: 4803.33px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p99 {
+  /* 4300 руб/кг */
+
+  position: absolute;
+  width: 175px;
+  height: 42px;
+  left: 975.75px;
+  top: 4858.75px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p10 {
+  /* сникерс */
+
+  position: absolute;
+  width: 124px;
+  height: 42px;
+  left: 318.89px;
+  top: 5770.9px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p101 {
+  /* 4200 руб/кг */
+
+  position: absolute;
+  width: 177px;
+  height: 42px;
+  left: 291.18px;
+  top: 5826.32px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p11 {
+  /* маракуйя - кокос */
+
+  position: absolute;
+  width: 265px;
+  height: 42px;
+  left: 952.58px;
+  top: 5770.9px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p111 {
+  /* 4800 руб/кг */
+
+  position: absolute;
+  width: 178px;
+  height: 42px;
+  left: 996.19px;
+  top: 5826.32px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p12 {
+  /* моти */
+
+  position: absolute;
+  width: 79px;
+  height: 42px;
+  left: 326.61px;
+  top: 6738.47px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p112 {
+  /* 180 руб/шт */
+
+  position: absolute;
+  width: 176.71px;
+  height: 44.97px;
+  left: 292.54px;
+  top: 6782.08px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p13 {
+  /* капкейки */
+
+  position: absolute;
+  width: 148px;
+  height: 42px;
+  left: 989.38px;
+  top: 6738.47px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p113 {
+  /* 210 руб/шт */
+
+  position: absolute;
+  width: 176.71px;
+  height: 44.97px;
+  left: 974.38px;
+  top: 6782.08px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+p14 {
+  /* чизкейк на палочке */
+
+  position: absolute;
+  width: 302px;
+  height: 42px;
+  left: 569.19px;
+  top: 7718.31px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #8a7676;
+}
+p114 {
+  /* 320 руб/шт */
+
+  position: absolute;
+  width: 176.71px;
+  height: 44.97px;
+  left: 631.42px;
+  top: 7772.37px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: lowercase;
+
+  color: #694949;
+}
+.line4 {
+  /* Line 4 */
+
+  position: absolute;
+  width: 634.15px;
+  height: 0px;
+  left: calc(50% - 634.15px / 2);
+  top: 7885.93px;
+
+  border: 0.454259px solid #000000;
+}
+h5 {
+  /* Каждое изделие бережно упаковано в красивую коробку. Такой подарок станет прекрасным комплиментом для Ваших друзей и близких */
+
+  position: absolute;
+  width: 995.28px;
+  height: 168px;
+  left: calc(50% - 995.28px / 2 - 0.36px);
+  top: 8987.95px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 31.7981px;
+  line-height: 42px;
+  text-align: center;
+
+  color: #4c3a3a;
+}
+.rectangle5 {
+  /* Rectangle 4 */
+
+  position: absolute;
+  width: 1440px;
+  height: 87.22px;
+  left: 0px;
+  top: 9291.95px;
+
+  background: #c18b8b;
+}
+p20 {
+  /* КОНТАКТЫ */
+
+  position: absolute;
+  width: 165px;
+  height: 39px;
+  left: 90.4px;
+  top: 9314.67px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 29.0726px;
+  line-height: 39px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #ffffff;
+}
+p30 {
+  /* +79814638064 */
+
+  position: absolute;
+  width: 190px;
+  height: 40px;
+  left: 308.44px;
+  top: 9315.57px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 31.7981px;
+  line-height: 40px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #ffffff;
+}
+p40 {
+  /* WhatsApp | Telegram */
+
+  position: absolute;
+  width: 300px;
+  height: 40px;
+  left: 543.75px;
+  top: 9315.57px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 31.7981px;
+  line-height: 40px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #ffffff;
+}
+p50 {
+  /* Калининград, ул.Театральная 33 */
+
+  position: absolute;
+  width: 442px;
+  height: 36px;
+  left: 889.89px;
+  top: 9319.21px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 29.0726px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #ffffff;
+}
+p200 {
+  /* Мои работы */
+
+  position: absolute;
+  width: 282px;
+  height: 64px;
+  left: calc(50% - 282px / 2);
+  top: 8029.95px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 64px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #c18b8b;
+}
+
+.image-container img {
+  transition: 0.4s ease-in-out;
+}
+.image-container img:hover {
+  transform: scale(1.2);
+}
+.image21 {
+  /* IMG_1208 21 */
+
+  position: absolute;
+  width: 504px;
+  height: 394px;
+  left: -6px;
+  top: 8131.95px;
+
+  background: url(IMG_1208 3.jpg);
+}
+.image23 {
+  /* IMG_5345 23 */
+
+  position: absolute;
+  width: 465px;
+  height: 396px;
+  left: 487px;
+  top: 8132.95px;
+
+  background: url(IMG_5345.png);
+}
+
+.image24 {
+  /* IMG_6643 24 */
+
+  position: absolute;
+  width: 488px;
+  height: 397px;
+  left: 952px;
+  top: 8131.95px;
+
+  background: url(IMG_6643.jpg);
+}
+
+.image25 {
+  /* IMG_6641 25 */
+
+  position: absolute;
+  width: 533px;
+  height: 397px;
+  left: 0px;
+  top: 8523.95px;
+
+  background: url(IMG_6641.jpg);
+}
+
+.image26 {
+  /* IMG_6644 26 */
+
+  position: absolute;
+  width: 407px;
+  height: 391px;
+  left: 528px;
+  top: 8528.95px;
+
+  background: url(IMG_6644.jpg);
+}
+
+.image27 {
+  /* img27 */
+
+  position: absolute;
+  width: 509px;
+  height: 391px;
+  left: 932px;
+  top: 8528.95px;
+
+  background: url(4E4D8A28-7E9F-40A5-A2B4-9C0A4862D987.jpg);
+}
